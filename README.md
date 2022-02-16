@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# MLR for Bike Sharing
+> This is an exercise in Multiple Linear Regression for Bike Sharing
 
 
 ## Table of Contents
